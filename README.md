@@ -5,7 +5,7 @@
 ## Skills 🛠️
 
 - **Tech**: Flutter, React, JavaScript, TypeScript, Node.js, Dart
-- **Methodologies**: Clean Architecture, SOLID, TDD, BDD
+- **Methodologies**: Clean Architecture, SOLID, TDD, BDD, DDD
 - **Platforms**: iOS, Android, Docker, Elastic
 
 ## Let's Connect! 🤝
