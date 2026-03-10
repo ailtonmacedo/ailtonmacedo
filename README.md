@@ -1,17 +1,23 @@
-# Hey, I'm Ailton Macedo✌️
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG7lSR2dAhCHA/profile-displaybackgroundimage-shrink_350_1400/B4DZl9VcUWG8AY-/0/1758744397631?e=1774483200&v=beta&t=iydswYPUBIE-urYhnW-2MHGyGfKCjNITO0VbHVYGQAQ" alt="Ailton Macedo banner" width="100%" />
+</p>
 
-### I'm a **Software Engineer** with **15+ years** of experience 🎉
+# Hi there, I'm Ailton Macedo 
 
-## Skills 🛠️
+### Software Engineer Frontend | Flutter & React Specialist | Fintechs and Digital Payments
 
-- **Tech**: Flutter, React, JavaScript, TypeScript, Node.js, Dart
-- **Methodologies**: Clean Architecture, SOLID, TDD, BDD, DDD
-- **Platforms**: iOS, Android, Docker, Elastic
+I build modern, scalable, and user-focused digital products with a strong focus on **Flutter**, **React**, and high-quality frontend architecture.
 
-## Let's Connect! 🤝
+My work is centered on creating smooth experiences, clean interfaces, and robust applications — especially in environments connected to **fintechs** and **digital payments**.
 
-[LinkedIn](https://www.linkedin.com/in/ailtonmacedo/) | [Email](mailto:ailtonwsb@gmail.com)
+---
+Profile mindset
 
-## Fun Fact 🎈
+> Building digital experiences with clean code, strong product vision, and real business impact.
+---
 
-I believe good code is like good music: harmonious and fluid! 🎶
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailtonmacedo/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailtonwsb@gmail.com)
+
