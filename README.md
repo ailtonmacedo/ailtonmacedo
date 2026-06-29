@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG7lSR2dAhCHA/profile-displaybackgroundimage-shrink_350_1400/B4DZl9VcUWG8AY-/0/1758744397631?e=1774483200&v=beta&t=iydswYPUBIE-urYhnW-2MHGyGfKCjNITO0VbHVYGQAQ" alt="Ailton Macedo banner" width="100%" />
-</p>
-
 # Hi there, I'm Ailton Macedo 
 
 ### Software Engineer Frontend | Flutter & React Specialist | Fintechs and Digital Payments
